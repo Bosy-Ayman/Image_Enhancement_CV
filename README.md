@@ -208,4 +208,4 @@ Overall, the methods proved effective for most images, though further optimizati
 2. **Edge Detection**: Apply edge detection techniques like Canny edge detection to enhance image features.
 
 ```
-```
+
