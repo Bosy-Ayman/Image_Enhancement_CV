@@ -179,6 +179,4 @@ Overall, the methods proved effective for most images, though further optimizati
 
 1. **Advanced Denoising**: Further explore advanced denoising algorithms such as deep learning-based approaches.
 2. **Edge Detection**: Apply edge detection techniques like Canny edge detection to enhance image features.
-3. **Automation**: Automate the enhancement pipeline so that it can be applied to a batch of images with minimal intervention.
-4. **Real-time Processing**: Investigate techniques for enhancing images in real-time for use in video processing or surveillance applications.
 
